@@ -1,7 +1,7 @@
 [
     {
-        "name": "Dummy",
-        "author": "Dummy Author",
-        "sprite_sheet": "dummy.png"
+        "name": "samus",
+        "display_name": "Samus",
+        "author": "Nintendo"
     }
 ]
