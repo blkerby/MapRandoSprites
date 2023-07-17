@@ -1,7 +1,83 @@
 [
     {
-        "name": "samus",
-        "display_name": "Samus",
-        "author": "Nintendo"
+        "category_name": "Samus",
+        "sprites": [
+            {"name": "samus", "version": 1, "display_name": "Samus", "author": "Nintendo"},
+            {"name": "samus_aroace", "version": 1, "display_name": "AroAce Samus", "author": "mm2nescartridge"},
+            {"name": "samus_blue", "version": 1, "display_name": "Blue Samus", "author": "mm2nescartridge"},
+            {"name": "samus_dread", "version": 1, "display_name": "Samus (Metroid Dread)", "author": "Wandering Spider"},
+            {"name": "samus_greyscale", "version": 1, "display_name": "Greyscale Samus", "author": "mm2nescartridge"},
+            {"name": "samus_trans", "version": 1, "display_name": "Trans Samus", "author": "TarThoron"},
+            {"name": "samus_outline", "version": 1, "display_name": "Outline Samus", "author": "Fredz00z"}
+        ]
+    },
+    {
+        "category_name": "Custom",
+        "sprites": [
+            {"name": "alcoon", "version": 1, "display_name": "Alcoon", "author": "wuffie"},
+            {"name": "alucard_sotn", "version": 1, "display_name": "Alucard", "author": "Nintoaster"},
+            {"name": "arcana", "version": 1, "display_name": "Arcana", "author": "MM102"},
+            {"name": "bob", "version": 1, "display_name": "B.O.B.", "author": "Spoonybard"},
+            {"name": "brad_fang", "version": 1, "display_name": "Brad Fang", "author": "Akai Azul"},
+            {"name": "buffed_kirby", "version": 1, "display_name": "Buffed Kirby", "author": "Fredz00z"},
+            {"name": "captain_novolin", "version": 1, "display_name": "Captain Novolin", "author": "PaddyCo"},
+            {"name": "chairdeep", "version": 1, "display_name": "Chairdeep", "author": "_aitchfactor"},
+            {"name": "crewmate", "version": 1, "display_name": "Crewmate", "author": "_aitchfactor"},
+            {"name": "cuphead", "version": 1, "display_name": "Cuphead", "author": "Fredz00z"},
+            {"name": "cursor", "version": 1, "display_name": "Cursor", "author": "PlaguedOne"},
+            {"name": "dark_samus", "version": 1, "display_name": "Dark Samus", "author": "TarThoron"},
+            {"name": "diddy_kong", "version": 1, "display_name": "Diddy Kong", "author": "Di10"},
+            {"name": "earthworm_jim", "version": 1, "display_name": "Earthworm Jim", "author": "Fredz00z"},
+            {"name": "goku_child", "version": 1, "display_name": "Goku (Child)", "author": "Fredz00z"},
+            {"name": "hitboxhelper", "version": 1, "display_name": "Hitbox Helper", "author": "Artheau"},
+            {"name": "hitboxhelper2", "version": 1, "display_name": "Hitbox Helper (2)", "author": "TarThoron"},
+            {"name": "inkling-girl", "version": 1, "display_name": "Inkling Girl", "author": "Ouily644"},
+            {"name": "kirby", "version": 1, "display_name": "Kirby", "author": "Wandering Spider"},
+            {"name": "kirby_yarn", "version": 1, "display_name": "Kirby (Yarn)", "author": "Dawn"},
+            {"name": "knuckles", "version": 1, "display_name": "Knuckles", "author": "Fredz00z"},
+            {"name": "link_2_the_past", "version": 1, "display_name": "Link 2 the Past (Z3)", "author": "Little Leaden Hearts \\u2764"},
+            {"name": "link_oot", "version": 1, "display_name": "Link (OoT)", "author": "RonnSama"},
+            {"name": "link_tall", "version": 1, "display_name": "Link (Z2)", "author": "Little Leaden Hearts \\u2764"},
+            {"name": "luigi_mansion", "version": 1, "display_name": "Luigi", "author": "RonnSama"},
+            {"name": "maria_pollo", "version": 1, "display_name": "Maria Pollo", "author": "MoeChicken"},
+            {"name": "maria_renard", "version": 1, "display_name": "Maria Renard", "author": "Little Leaden Hearts \\u2764"},
+            {"name": "mario_8bit", "version": 1, "display_name": "Mario (SMB1)", "author": "TarThoron"},
+            {"name": "mario_8bit_modern", "version": 1, "display_name": "Mario (SMB1, Modern colors)", "author": "TarThoron"},
+            {"name": "mario_dreamteam", "version": 1, "display_name": "Mario (Dream Team)", "author": "Dawn"},
+            {"name": "mario_smw", "version": 1, "display_name": "Mario (Super Mario World)", "author": "SthianFel64"},
+            {"name": "master_hand", "version": 1, "display_name": "Master Hand", "author": "Fredz00z"},
+            {"name": "maxim_kischine", "version": 1, "display_name": "Maxim Kischine", "author": "Little Leaden Hearts \\u2764"},
+            {"name": "megamanx", "version": 1, "display_name": "Mega Man X", "author": "Artheau"},
+            {"name": "metroid", "version": 1, "display_name": "Metroid", "author": "Fingers McGee"},
+            {"name": "onefourty", "version": 1, "display_name": "140.0", "author": "Kyzentun"},
+            {"name": "plissken", "version": 1, "display_name": "Plissken", "author": "Akai Azul"},
+            {"name": "protogen_laso", "version": 1, "display_name": "Protogen Laso", "author": "Purple peak1"},
+            {"name": "pyronett", "version": 1, "display_name": "Pyronett", "author": "awildwildwes"},
+            {"name": "ronald_mcdonald", "version": 1, "display_name": "Ronald McDonald", "author": "Fredz00z"},
+            {"name": "samus_combatarmor", "version": 1, "display_name": "Combat Armor Samus", "author": "TarThoron, Munchy"},
+            {"name": "sans", "version": 1, "display_name": "Sans", "author": "Ouily644"},
+            {"name": "shantae", "version": 1, "display_name": "Shantae", "author": "Fredz00z"},
+            {"name": "snes_controller", "version": 1, "display_name": "SNES Controller", "author": "Fredz00z"},
+            {"name": "sonic", "version": 1, "display_name": "Sonic the Hedgehog", "author": "Fredz00z"},
+            {"name": "sprite_can", "version": 1, "display_name": "Sprite Can", "author": "TarThoron"},
+            {"name": "super_controid", "version": 1, "display_name": "Super Controid", "author": "Nintoaster"},
+            {"name": "super_controid_pg", "version": 1, "display_name": "Super Controid (PG)", "author": "Nintoaster"},
+            {"name": "tails", "version": 1, "display_name": "Miles \"Tails\" Prower", "author": "Fredz00z"},
+            {"name": "tetris", "version": 1, "display_name": "Tetromino", "author": "Kyzentun"},
+            {"name": "wario", "version": 1, "display_name": "Wario", "author": "Fredz00z"},
+            {"name": "yoshi", "version": 1, "display_name": "Yoshi & Baby Mario", "author": "Dawn"}
+        ]
+    },
+    {
+        "category_name": "Jank",
+        "sprites": [
+            {"name": "samus_180-degree", "version": 1, "display_name": "180-Degree Samus", "author": "TarThoron"},
+            {"name": "samus_backwards", "version": 1, "display_name": "Backwards Samus", "author": "TarThoron"},
+            {"name": "samus_invisible", "version": 1, "display_name": "Invisible Samus", "author": "TarThoron"},
+            {"name": "samus_left-leg", "version": 1, "display_name": "Left Leg Samus", "author": "Kyzentun"},
+            {"name": "samus_mini", "version": 1, "display_name": "Mini Samus", "author": "Kyzentun"},
+            {"name": "samus_upsidedown", "version": 1, "display_name": "Upside-Down Samus", "author": "TarThoron"},
+            {"name": "samus_cannon", "version": 1, "display_name": "Samus Cannon", "author": "TarThoron"}
+        ]
     }
 ]
