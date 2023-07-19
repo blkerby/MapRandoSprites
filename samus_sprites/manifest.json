@@ -3,14 +3,15 @@
         "category_name": "Samus",
         "sprites": [
             {"name": "samus", "version": 1, "display_name": "Samus", "author": "Nintendo"},
-            {"name": "dark_samus", "version": 1, "display_name": "Dark Samus", "author": "TarThoron"},
             {"name": "samus_dread", "version": 1, "display_name": "Metroid Dread Samus", "author": "Wandering Spider"},
+            {"name": "dark_samus", "version": 1, "display_name": "Dark Samus", "author": "TarThoron"},
+            {"name": "samus_zero-mission", "version": 1, "display_name": "Zero Mission Samus", "author": "Starry Melody"},            
+            {"name": "samus_clocktoberfest", "version": 1, "display_name": "Clocktoberfest Samus", "author": "Aran Jaeger"},
             {"name": "samus_aroace", "version": 1, "display_name": "AroAce Samus", "author": "mm2nescartridge"},
             {"name": "samus_enby", "version": 1, "display_name": "Enby Samus", "author": "Glove"},
             {"name": "samus_trans", "version": 1, "display_name": "Trans Samus", "author": "TarThoron"},
             {"name": "samus_blue", "version": 1, "display_name": "Blue Samus", "author": "mm2nescartridge"},
-            {"name": "samus_greyscale", "version": 1, "display_name": "Greyscale Samus", "author": "mm2nescartridge"},
-            {"name": "samus_outline", "version": 1, "display_name": "Outline Samus", "author": "Fredz00z"}
+            {"name": "samus_greyscale", "version": 1, "display_name": "Greyscale Samus", "author": "mm2nescartridge"}
         ]
     },
     {
@@ -30,7 +31,6 @@
             {"name": "diddy_kong", "version": 1, "display_name": "Diddy Kong", "author": "Di10"},
             {"name": "earthworm_jim", "version": 1, "display_name": "Earthworm Jim", "author": "Fredz00z"},
             {"name": "goku_child", "version": 1, "display_name": "Goku (Child)", "credits_name": "Child Goku", "author": "Fredz00z"},
-            {"name": "hitboxhelper2", "version": 1, "display_name": "Hitbox Helper", "author": "TarThoron"},
             {"name": "inkling-girl", "version": 1, "display_name": "Inkling Girl", "author": "Ouily644"},
             {"name": "kirby", "version": 1, "display_name": "Kirby", "author": "Wandering Spider"},
             {"name": "kirby_yarn", "version": 1, "display_name": "Kirby (Yarn)", "credits_name": "Yarn Kirby", "author": "Dawn"},
@@ -72,6 +72,8 @@
     {
         "category_name": "Transformed Samus",
         "sprites": [
+            {"name": "samus_outline", "version": 1, "display_name": "Outline Samus", "author": "Fredz00z"},
+            {"name": "hitboxhelper2", "version": 1, "display_name": "Hitbox Helper", "author": "TarThoron"},
             {"name": "samus_backwards", "version": 1, "display_name": "Backwards Samus", "author": "TarThoron"},
             {"name": "samus_upsidedown", "version": 1, "display_name": "Upside-Down Samus", "author": "TarThoron"},
             {"name": "samus_180-degree", "version": 1, "display_name": "180-Degree Samus", "credits_name": "One Eighty Degree Samus", "author": "TarThoron"},
