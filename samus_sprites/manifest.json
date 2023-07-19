@@ -5,10 +5,10 @@
             {"name": "samus", "version": 1, "display_name": "Samus", "author": "Nintendo"},
             {"name": "dark_samus", "version": 1, "display_name": "Dark Samus", "author": "TarThoron"},
             {"name": "samus_dread", "version": 1, "display_name": "Metroid Dread Samus", "author": "Wandering Spider"},
-            {"name": "samus_blue", "version": 1, "display_name": "Blue Samus", "author": "mm2nescartridge"},
             {"name": "samus_aroace", "version": 1, "display_name": "AroAce Samus", "author": "mm2nescartridge"},
             {"name": "samus_enby", "version": 1, "display_name": "Enby Samus", "author": "Glove"},
             {"name": "samus_trans", "version": 1, "display_name": "Trans Samus", "author": "TarThoron"},
+            {"name": "samus_blue", "version": 1, "display_name": "Blue Samus", "author": "mm2nescartridge"},
             {"name": "samus_greyscale", "version": 1, "display_name": "Greyscale Samus", "author": "mm2nescartridge"},
             {"name": "samus_outline", "version": 1, "display_name": "Outline Samus", "author": "Fredz00z"}
         ]
@@ -48,6 +48,7 @@
             {"name": "maxim_kischine", "version": 1, "display_name": "Maxim Kischine", "author": "Little Leaden Hearts"},
             {"name": "megamanx", "version": 1, "display_name": "Mega Man X", "author": "Artheau"},
             {"name": "metroid", "version": 1, "display_name": "Metroid", "author": "Fingers McGee"},
+            {"name": "moonclif", "version": 1, "display_name": "Moonclif", "author": "Lougaroc"},
             {"name": "onefourty", "version": 1, "display_name": "140", "credits_name": "One Forty", "author": "Kyzentun"},
             {"name": "plissken", "version": 1, "display_name": "Plissken", "author": "Akai Azul"},
             {"name": "protogen_laso", "version": 1, "display_name": "Protogen Laso", "author": "Purple peak1"},
@@ -56,6 +57,8 @@
             {"name": "samus_combatarmor", "version": 1, "display_name": "Combat Armor Samus", "author": "TarThoron, Munchy"},
             {"name": "sans", "version": 1, "display_name": "Sans", "author": "Ouily644"},
             {"name": "shantae", "version": 1, "display_name": "Shantae", "author": "Fredz00z"},
+            {"name": "shaktool", "version": 1, "display_name": "Shaktool", "author": "Pneumatic"},
+            {"name": "shaktool-jr", "version": 1, "display_name": "Shaktool Jr.", "author": "Pneumatic"},
             {"name": "snes_controller", "version": 1, "display_name": "SNES Controller", "author": "Fredz00z"},
             {"name": "sonic", "version": 1, "display_name": "Sonic the Hedgehog", "author": "Fredz00z"},
             {"name": "sprite_can", "version": 1, "display_name": "Sprite Can", "author": "TarThoron"},
