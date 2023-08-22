@@ -58,7 +58,7 @@
             {"name": "onefourty", "version": 1, "display_name": "140", "credits_name": "One Forty", "authors": ["Kyzentun"]},
             {"name": "plissken", "version": 1, "display_name": "Plissken", "authors": ["Akai Azul"]},
             {"name": "protogen_laso", "version": 1, "display_name": "Protogen Laso", "authors": ["Purple peak1"]},
-            {"name": "pyronett", "version": 2, "display_name": "Pyronett", "authors": ["awildwildwes"]},
+            {"name": "pyronett", "version": 1, "display_name": "Pyronett", "authors": ["awildwildwes"]},
             {"name": "ronald_mcdonald", "version": 1, "display_name": "Ronald McDonald", "authors": ["Fredz00z"]},
             {"name": "samus_combatarmor", "version": 1, "display_name": "Combat Armor Samus", "authors": ["TarThoron", "Munchy"]},
             {"name": "sans", "version": 1, "display_name": "Sans", "authors": ["Ouily644"]},
