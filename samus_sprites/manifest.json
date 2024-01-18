@@ -27,6 +27,8 @@
             {"name": "bob", "version": 1, "display_name": "B.O.B.", "authors": ["Spoonybard"]},
             {"name": "brad_fang", "version": 1, "display_name": "Brad Fang", "authors": ["Akai Azul"]},
             {"name": "buffed_kirby", "version": 1, "display_name": "Buffed Kirby", "authors": ["Fredz00z"]},
+            {"name": "buffed_eggplant", "version": 2, "display_name": "Buffed Eggplant", "authors": ["Fredz00z"]},
+            {"name": "buffed_pug", "version": 2, "display_name": "Buffed Pug", "authors": ["Fredz00z"]},
             {"name": "captain_novolin", "version": 1, "display_name": "Captain Novolin", "authors": ["PaddyCo"]},
             {"name": "chairdeep", "version": 1, "display_name": "Chairdeep", "authors": ["_aitchfactor"]},
             {"name": "crewmate", "version": 1, "display_name": "Crewmate", "authors": ["_aitchfactor"]},
