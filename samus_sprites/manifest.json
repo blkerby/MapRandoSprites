@@ -36,7 +36,7 @@
             {"name": "cursor", "version": 1, "display_name": "Cursor", "authors": ["PlaguedOne"]},
             {"name": "diddy_kong", "version": 1, "display_name": "Diddy Kong", "authors": ["Di10"]},
             {"name": "earthworm_jim", "version": 1, "display_name": "Earthworm Jim", "authors": ["Fredz00z"]},
-            {"name": "fedtrooper", "version": 1, "display_name": "Galactic Federation Trooper", "authors": ["Physix"]},
+            {"name": "fedtrooper", "version": 1, "display_name": "Galactic Federation Trooper", "credits_name": "Galactic Fed Trooper", "authors": ["Physix"]},
             {"name": "goku_child", "version": 1, "display_name": "Goku (Child)", "credits_name": "Child Goku", "authors": ["Fredz00z"]},
             {"name": "inkling-girl", "version": 1, "display_name": "Inkling Girl", "authors": ["Ouily644"]},
             {"name": "kirby", "version": 1, "display_name": "Kirby", "authors": ["Wandering Spider"]},
