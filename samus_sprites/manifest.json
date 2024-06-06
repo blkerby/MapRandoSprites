@@ -40,6 +40,7 @@
             {"name": "diddy_kong", "version": 1, "display_name": "Diddy Kong", "authors": ["Di10"]},
             {"name": "earthworm_jim", "version": 1, "display_name": "Earthworm Jim", "authors": ["Fredz00z"]},
             {"name": "fedtrooper", "version": 1, "display_name": "Galactic Federation Trooper", "credits_name": "Galactic Fed Trooper", "authors": ["Physix"]},
+            {"name": "fight", "version": 1, "display_name": "Fight", "authors": ["SpoonyBard"]},
             {"name": "goku_child", "version": 1, "display_name": "Goku (Child)", "credits_name": "Child Goku", "authors": ["Fredz00z"]},
             {"name": "inkling-girl", "version": 1, "display_name": "Inkling Girl", "authors": ["Ouily644"]},
             {"name": "junko", "version": 1, "display_name": "Junko", "authors": ["P. Yoshi"]},
