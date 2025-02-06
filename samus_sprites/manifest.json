@@ -4,6 +4,8 @@
         "sprites": [
             {"name": "samus_vanilla", "version": 1, "display_name": "Samus", "authors": ["Nintendo"]},
             {"name": "samus_dread", "version": 1, "display_name": "Metroid Dread Samus", "authors": ["Wandering Spider"]},
+            {"name": "santamus", "version": 1, "display_name": "Santamus", "authors": ["Mattroid"]},
+            {"name": "metroid_1_suit", "version": 1, "display_name": "Metroid 1 Suit", "authors": ["Mattroid"]},
             {"name": "samus_fusion_typea_green", "version": 1, "display_name": "Fusion Samus", "authors": ["Gala"]},
             {"name": "dark_samus", "version": 1, "display_name": "Dark Samus", "authors": ["TarThoron"]},
             {"name": "samus_zero-mission", "version": 1, "display_name": "Zero Mission Samus", "authors": ["Starry Melody"]},
@@ -71,6 +73,7 @@
             {"name": "megamanx_bearded", "version": 1, "display_name": "Mega Man X (Bearded)", "authors": ["Involuntarymillenial"]},
             {"name": "metroid", "version": 1, "display_name": "Metroid", "authors": ["Fingers McGee"]},
             {"name": "moonclif", "version": 1, "display_name": "Moonclif", "authors": ["Lougaroc"]},
+            {"name": "officer_donut", "version": 1, "display_name": "Officer Donut", "authors": ["Omnomnius"]},
             {"name": "onefourty", "version": 1, "display_name": "140", "credits_name": "One Forty", "authors": ["Kyzentun"]},
             {"name": "plissken", "version": 1, "display_name": "Plissken", "authors": ["Akai Azul"]},
             {"name": "protogen_laso", "version": 1, "display_name": "Protogen Laso", "authors": ["Purple peak1"]},
