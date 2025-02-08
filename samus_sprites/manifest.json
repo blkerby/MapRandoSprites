@@ -6,7 +6,7 @@
             {"name": "samus_dread", "version": 1, "display_name": "Dread Samus", "authors": ["Wandering Spider"]},
             {"name": "dread_samus", "version": 1, "display_name": "Dread Samus", "authors": ["DragonKnight"]},
             {"name": "santamus", "version": 1, "display_name": "Santamus", "authors": ["Mattroid"]},
-            {"name": "metroid_1_suit", "version": 1, "display_name": "Metroid 1 Suit", "authors": ["Mattroid"], "credits_name": "Metroid I Suit"},
+            {"name": "metroid_1_suit", "version": 1, "display_name": "Metroid 1 Samus", "authors": ["Mattroid"], "credits_name": "Metroid I Samus"},
             {"name": "samus_fusion_typea_green", "version": 1, "display_name": "Fusion Samus", "authors": ["Gala"]},
             {"name": "dark_samus", "version": 1, "display_name": "Dark Samus", "authors": ["TarThoron"]},
             {"name": "samus_zero-mission", "version": 1, "display_name": "Zero Mission Samus", "authors": ["Starry Melody"]},
