@@ -7,6 +7,7 @@
             {"name": "dread_samus", "version": 1, "display_name": "Dread Samus", "authors": ["DragonKnight"]},
             {"name": "santamus", "version": 1, "display_name": "Santamus", "authors": ["Mattroid"]},
             {"name": "metroid_1_suit", "version": 1, "display_name": "Metroid 1 Samus", "authors": ["Mattroid"], "credits_name": "Metroid I Samus"},
+            {"name": "metroid_suit", "version": 1, "display_name": "Metroid Suit Samus", "authors": ["Mattroid"]},
             {"name": "samus_fusion_typea_green", "version": 1, "display_name": "Fusion Samus", "authors": ["Gala"]},
             {"name": "dark_samus", "version": 1, "display_name": "Dark Samus", "authors": ["TarThoron"]},
             {"name": "dark_samus_2", "version": 1, "display_name": "Dark Samus", "authors": ["EquinoxAsKnownBySome"]},
