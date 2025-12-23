@@ -13,7 +13,7 @@
             {"name": "dark_samus_2", "version": 1, "display_name": "Dark Samus", "authors": ["Floobus Floofins"]},
             {"name": "dark_samus_reanimated", "version": 1, "display_name": "Dark Samus Reanimated", "authors": ["Mattroid"]},
             {"name": "samus_zero-mission", "version": 1, "display_name": "Zero Mission Samus", "authors": ["Starry Melody"]},
-            {"name": "samus_returns", "version": 1, "display_name": "Samus Returns Samus", "authors": ["Mattroid"]},
+            {"name": "samus_returns", "version": 2, "display_name": "Samus Returns Samus", "authors": ["Mattroid"]},
             {"name": "samus_maid", "version": 1, "display_name": "Samus Maid", "authors": ["Ouily644"]},
             {"name": "hack_opposition", "version": 2, "display_name": "Opposition Samus", "authors": ["mccad00"]},
             {"name": "ped_suit", "version": 1, "display_name": "PED Suit Samus", "authors": ["Mattroid"]},
