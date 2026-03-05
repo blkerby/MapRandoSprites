@@ -4,13 +4,6 @@
         "sprites": [
             {"name": "samus_vanilla", "version": 1, "display_name": "Samus", "authors": ["Nintendo"]},
 
-            {"name": "dark_samus", "version": 1, "display_name": "Dark Samus", "authors": ["TarThoron"]},
-            {"name": "dark_samus_2", "version": 1, "display_name": "Dark Samus", "authors": ["Floobus Floofins"]},
-            {"name": "dark_samus_reanimated", "version": 1, "display_name": "Dark Samus Reanimated", "authors": ["Mattroid"]},
-
-            {"name": "samus_maid", "version": 1, "display_name": "Samus Maid", "authors": ["Ouily644"]},
-            {"name": "santamus", "version": 1, "display_name": "Santamus", "authors": ["Mattroid"]},
-
             {"name": "metroid_1_suit", "version": 1, "display_name": "Metroid 1 Samus", "authors": ["Mattroid"], "credits_name": "Metroid I Samus"},
             {"name": "samus_zero-mission", "version": 1, "display_name": "Zero Mission Samus", "authors": ["Starry Melody"]},
             {"name": "samus_returns", "version": 2, "display_name": "Samus Returns Samus", "authors": ["Mattroid"]},
@@ -32,7 +25,15 @@
             {"name": "samus_trans", "version": 1, "display_name": "Trans Samus", "authors": ["TarThoron"]},
             {"name": "samus_agender", "version": 1, "display_name": "Agender Samus", "authors": ["Abyss"]},
 
+            {"name": "dark_samus", "version": 1, "display_name": "Dark Samus", "authors": ["TarThoron"]},
+            {"name": "dark_samus_2", "version": 1, "display_name": "Dark Samus", "authors": ["Floobus Floofins"]},
+            {"name": "dark_samus_reanimated", "version": 1, "display_name": "Dark Samus Reanimated", "authors": ["Mattroid"]},
+
+            {"name": "samus_maid", "version": 1, "display_name": "Samus Maid", "authors": ["Ouily644"]},
+            {"name": "santamus", "version": 1, "display_name": "Santamus", "authors": ["Mattroid"]},
+
             {"name": "samus_blue", "version": 1, "display_name": "Blue Samus", "authors": ["mm2nescartridge"]},
+            {"name": "bastion", "version": 1, "display_name": "Bastion", "authors": ["Lunix"]},
             {"name": "samus_clocktoberfest", "version": 1, "display_name": "Clocktoberfest Samus", "authors": ["Aran Jaeger"]},
             {"name": "samus_greyscale", "version": 1, "display_name": "Greyscale Samus", "authors": ["mm2nescartridge"]},
             {"name": "samus_outline", "version": 1, "display_name": "Outline Samus", "authors": ["Fredz00z"]}
@@ -46,7 +47,6 @@
             {"name": "arcana", "version": 1, "display_name": "Arcana", "authors": ["MM102"]},
             {"name": "bailey", "version": 1, "display_name": "Justin Bailey", "authors": ["Auximines"]},
             {"name": "bart_simpson", "version": 1, "display_name": "Bart Simpson", "authors": ["Raumball"]},
-            {"name": "bastion", "version": 1, "display_name": "Bastion", "authors": ["Lunix"]},
             {"name": "bob", "version": 1, "display_name": "B.O.B.", "authors": ["Spoonybard"]},
             {"name": "brad_fang", "version": 1, "display_name": "Brad Fang", "authors": ["Akai Azul"]},
             {"name": "bruno", "version": 1, "display_name": "Bruno", "authors": ["Sunwu", "Looking4Giants"]},
