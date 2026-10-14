@@ -6,6 +6,7 @@
 
             {"name": "metroid_1_suit", "version": 1, "display_name": "Metroid 1 Samus", "authors": ["Mattroid"], "credits_name": "Metroid I Samus"},
             {"name": "samus_zero-mission", "version": 1, "display_name": "Zero Mission Samus", "authors": ["Starry Melody"]},
+            {"name": "am2r_style_samus", "version": 1, "display_name": "AM2R Style Samus", "authors": ["Spencer Psilopoulos"]},
             {"name": "samus_returns", "version": 2, "display_name": "Samus Returns Samus", "authors": ["Mattroid"]},
             {"name": "samus_fusion_typea_green", "version": 1, "display_name": "Fusion Samus", "authors": ["Gala"]},
             {"name": "prime_series_suit", "version": 1, "display_name": "Prime Series Samus", "authors": ["Mattroid"]},
@@ -44,6 +45,7 @@
         "sprites": [
             {"name": "alcoon", "version": 1, "display_name": "Alcoon", "authors": ["wuffie"]},
             {"name": "alucard_sotn", "version": 1, "display_name": "Alucard", "authors": ["Nintoaster"]},
+            {"name": "ambureon", "version": 1, "display_name": "Ambureon", "authors": ["Bachelorsoft"]},
             {"name": "arcana", "version": 1, "display_name": "Arcana", "authors": ["MM102"]},
             {"name": "bailey", "version": 1, "display_name": "Justin Bailey", "authors": ["Auximines"]},
             {"name": "bart_simpson", "version": 1, "display_name": "Bart Simpson", "authors": ["Raumball"]},
@@ -93,6 +95,7 @@
             {"name": "mario_8bit_modern", "version": 1, "display_name": "Mario (NES, Modern colors)", "credits_name": "Modern NES Mario", "authors": ["TarThoron"]},
             {"name": "mario_dreamteam", "version": 1, "display_name": "Mario (Dream Team)", "credits_name": "Dream Team Mario", "authors": ["Dawn"]},
             {"name": "mario_smw", "version": 1, "display_name": "Mario (SMW)", "credits_name": "SMW Mario", "authors": ["SthianFel64"]},
+            {"name": "master_chief", "version": 1, "display_name": "Master Chief", "authors": ["Schlewinow"]},
             {"name": "master_hand", "version": 1, "display_name": "Master Hand", "authors": ["Fredz00z"]},
             {"name": "maxim_kischine", "version": 1, "display_name": "Maxim Kischine", "authors": ["Little Leaden Hearts"]},
             {"name": "megamanx", "version": 1, "display_name": "Mega Man X", "authors": ["Artheau"]},
